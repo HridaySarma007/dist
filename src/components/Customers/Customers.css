@@ -1,0 +1,25 @@
+.previous {
+  display: inline-block;
+  text-decoration: none;
+  border: none;
+  margin-right: 5px;
+  padding: 8px 16px;
+  color: white;
+  background-color: #1976d2;
+}
+
+paginateDisabled {
+  margin-right: 5px;
+  background-color: red;
+}
+
+next {
+  display: inline-block;
+  text-decoration: none;
+  border: none;
+  margin-right: 5px;
+  padding: 8px 16px;
+  color: white;
+  background-color: #1976d2;
+  /*cursor: pointer*/
+}

@@ -1,0 +1,290 @@
+{
+    "crops": [
+        {
+            "id": "1",
+            "name": "Maize",
+            "yield": "5"
+        },
+        {
+            "id": "2",
+            "name": "Soybean",
+            "yield": "2"
+        },
+        {
+            "id": "3",
+            "name": "Wheat",
+            "yield": "2"
+        },
+        {
+            "id": "4",
+            "name": "Arecanut",
+            "yield": "5.25"
+        },
+        {
+            "id": "5",
+            "name": "Oats",
+            "yield": "2"
+        },
+        {
+            "id": "6",
+            "name": "Pea",
+            "yield": "2.2"
+        },
+        {
+            "id": "7",
+            "name": "Bean",
+            "yield": "2"
+        },
+        {
+            "id": "8",
+            "name": "Tobacco",
+            "yield": "0.7"
+        },
+        {
+            "id": "9",
+            "name": "Sugarcane",
+            "yield": "80"
+        },
+        {
+            "id": "10",
+            "name": "Fingermillet",
+            "yield": "2"
+        },
+        {
+            "id": "11",
+            "name": "Cotton",
+            "yield": "0"
+        },
+        {
+            "id": "12",
+            "name": "short staple",
+            "yield": "0.6"
+        },
+        {
+            "id": "13",
+            "name": "long staple",
+            "yield": "1.2"
+        },
+        {
+            "id": "14",
+            "name": "Jute",
+            "yield": "3"
+        },
+        {
+            "id": "15",
+            "name": "Tomato(local variety)",
+            "yield": "25"
+        },
+        {
+            "id": "16",
+            "name": "Tomato(High Yielding Variety)",
+            "yield": "60"
+        },
+        {
+            "id": "17",
+            "name": "Rapseed and mustard",
+            "yield": "1.2"
+        },
+        {
+            "id": "18",
+            "name": "Autumn Rice",
+            "yield": "4"
+        },
+        {
+            "id": "19",
+            "name": "Sali Rice",
+            "yield": "5"
+        },
+        {
+            "id": "20",
+            "name": "Cucumber",
+            "yield": "6"
+        },
+        {
+            "id": "21",
+            "name": "Pumkin",
+            "yield": "20"
+        },
+        {
+            "id": "22",
+            "name": "Squash",
+            "yield": "3.5"
+        },
+        {
+            "id": "23",
+            "name": "Brinjal",
+            "yield": "35"
+        },
+        {
+            "id": "24",
+            "name": "Sweetpotato",
+            "yield": "30"
+        },
+        {
+            "id": "25",
+            "name": "Potato",
+            "yield": "20"
+        },
+        {
+            "id": "26",
+            "name": "Cassava",
+            "yield": "10.6"
+        },
+        {
+            "id": "27",
+            "name": "Cabbage",
+            "yield": "35"
+        },
+        {
+            "id": "28",
+            "name": "Carrot",
+            "yield": "25"
+        },
+        {
+            "id": "29",
+            "name": "Cauliflower",
+            "yield": "35"
+        },
+        {
+            "id": "30",
+            "name": "Radish",
+            "yield": "18"
+        },
+        {
+            "id": "31",
+            "name": "Spinach",
+            "yield": "30"
+        },
+        {
+            "id": "32",
+            "name": "Capsicum",
+            "yield": "24"
+        },
+        {
+            "id": "33",
+            "name": "Broccoli",
+            "yield": "12"
+        },
+        {
+            "id": "34",
+            "name": "Chilli local variety",
+            "yield": "15"
+        },
+        {
+            "id": "35",
+            "name": "Chilli hybrid variety",
+            "yield": "25"
+        },
+        {
+            "id": "37",
+            "name": "Ginger",
+            "yield": "15"
+        },
+        {
+            "id": "38",
+            "name": "Blackpepper",
+            "yield": "0.39"
+        },
+        {
+            "id": "39",
+            "name": "Turmeric",
+            "yield": "25"
+        },
+        {
+            "id": "40",
+            "name": "Onion",
+            "yield": "35"
+        },
+        {
+            "id": "41",
+            "name": "Garlic",
+            "yield": "9"
+        },
+        {
+            "id": "42",
+            "name": "Large Cardamo",
+            "yield": "0.9"
+        },
+        {
+            "id": "43",
+            "name": "Citrus",
+            "yield": "8.8"
+        },
+        {
+            "id": "44",
+            "name": "Muskmelon",
+            "yield": "45"
+        },
+        {
+            "id": "45",
+            "name": "Watermelon",
+            "yield": "46.5"
+        },
+        {
+            "id": "46",
+            "name": "Strawberry",
+            "yield": "30"
+        },
+        {
+            "id": "47",
+            "name": "Banana (tall variety)",
+            "yield": "20"
+        },
+        {
+            "id": "48",
+            "name": "Banana (dwarf variety)",
+            "yield": "40"
+        },
+        {
+            "id": "49",
+            "name": "Mango",
+            "yield": "16"
+        },
+        {
+            "id": "50",
+            "name": "Papaya",
+            "yield": "100"
+        },
+        {
+            "id": "51",
+            "name": "Guava",
+            "yield": "25"
+        },
+        {
+            "id": "52",
+            "name": "Apple",
+            "yield": "20"
+        },
+        {
+            "id": "53",
+            "name": "Pineapple",
+            "yield": "80"
+        },
+        {
+            "id": "54",
+            "name": "Sapota",
+            "yield": "50"
+        },
+        {
+            "id": "55",
+            "name": "Grapes",
+            "yield": "25"
+        },
+        {
+            "id": "56",
+            "name": "Litchi",
+            "yield": "6.67"
+        },
+        {
+            "id": "57",
+            "name": "Marigold",
+            "yield": "18"
+        },
+        {
+            "id": "58",
+            "name": "Chrysanthemum",
+            "yield": "15"
+        }
+
+    ]
+}
